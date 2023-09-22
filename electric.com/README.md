@@ -1,12 +1,25 @@
-# Tour-Project
+# Electric.com - Electric Vehicle Brochure
 
-DEMO-> https://yash-srivastav16.github.io/Tour-Project/
-Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
-Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
+Electric.com is a responsive website that serves as an informative brochure for electric vehicles, including electric cars, bikes, and scooters. This project aims to raise awareness about the benefits of electric mobility and provide valuable information for individuals interested in making eco-friendly transportation choices.
 
-The HomePage of the Website is with<b> main.html</b> file.
+## Features
 
-![alt text](https://github.com/officially-aman/electric.com)
+- **Homepage**: Engaging landing page introducing electric vehicles with captivating visuals and content.
+- **Vehicle Categories**: Sections dedicated to electric cars, bikes, and scooters, each with detailed information.
+- **Specifications**: Detailed specifications, features, and benefits of various electric vehicle models.
+- **Contact Information**: A contact form for inquiries, feedback, or collaboration opportunities.
 
-<h1><b>Other Screenshots of the Pages are.</b></h1>
+## Technologies Used
+
+- HTML5: Structured the website content.
+- CSS3: Styled and provided responsive design.
+- JavaScript: Implemented interactivity and dynamic elements.
+
+## Getting Started
+
+These instructions will help you set up a copy of the project on your local machine for development and testing purposes.
+
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/officially-aman/electric.com.
