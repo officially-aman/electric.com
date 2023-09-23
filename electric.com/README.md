@@ -22,4 +22,4 @@ These instructions will help you set up a copy of the project on your local mach
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/officially-aman/electric.com.
+    https://github.com/officially-aman/electric.com
